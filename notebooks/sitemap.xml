@@ -1,0 +1,11 @@
+--2022-06-28 16:34:12--  https://www.sainsburys.co.uk/sitemap.xml
+Resolving www.sainsburys.co.uk (www.sainsburys.co.uk)... 2600:9000:2360:1000:1d:2a03:8dc0:93a1, 2600:9000:2360:a400:1d:2a03:8dc0:93a1, 2600:9000:2360:e000:1d:2a03:8dc0:93a1, ...
+Connecting to www.sainsburys.co.uk (www.sainsburys.co.uk)|2600:9000:2360:1000:1d:2a03:8dc0:93a1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1062 (1.0K) [application/xml]
+Saving to: ‘sitemap.xml.1’
+
+     0K .                                                     100% 1013M=0s
+
+2022-06-28 16:34:12 (1013 MB/s) - ‘sitemap.xml.1’ saved [1062/1062]
+

@@ -1,0 +1,595 @@
+1656355178177	geckodriver	INFO	Listening on 127.0.0.1:61583
+1656355178589	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61584" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofiletZOyxD"
+2022-06-27 19:39:46.152 plugin-container[57985:2693186] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-27 19:39:46.153 plugin-container[57985:2693186] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-27 19:39:46.363 plugin-container[57985:2693186] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-27 19:39:46.363 plugin-container[57985:2693186] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-27 19:39:46.364 plugin-container[57985:2693192] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-27 19:39:46.364 plugin-container[57985:2693192] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:61584
+1656355188990	geckodriver	INFO	Listening on 127.0.0.1:61591
+1656355189585	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61592" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofile9J6VMF"
+2022-06-27 19:39:51.336 plugin-container[57990:2693519] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-27 19:39:51.337 plugin-container[57990:2693519] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-27 19:39:51.348 plugin-container[57990:2693519] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-27 19:39:51.348 plugin-container[57990:2693519] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-27 19:39:51.349 plugin-container[57990:2693534] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-27 19:39:51.349 plugin-container[57990:2693534] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1656355191358	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61592
+DevTools listening on ws://localhost:61584/devtools/browser/f74a59ab-a7c6-4bcf-8538-dc80ce217972
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofile9J6VMF/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656355194997	Marionette	INFO	Listening on port 61647
+Read port: 61647
+1656355195061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61592/devtools/browser/aa755b46-6525-4232-8e38-dcff9a3ac019
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1656355259603	geckodriver	INFO	Listening on 127.0.0.1:61697
+1656355260114	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61698" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofilepnqHad"
+1656355260792	Marionette	INFO	Marionette enabled
+2022-06-27 19:41:00.808 plugin-container[58018:2694848] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-27 19:41:00.809 plugin-container[58018:2694848] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-27 19:41:00.816 plugin-container[58018:2694848] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-27 19:41:00.816 plugin-container[58018:2694848] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-27 19:41:00.817 plugin-container[58018:2694846] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-27 19:41:00.817 plugin-container[58018:2694846] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:61698
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofilepnqHad/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656355263246	Marionette	INFO	Listening on port 61716
+DevTools listening on ws://localhost:61698/devtools/browser/bc5ecd5e-273a-4b1d-8030-331964df4288
+Read port: 61716
+1656355263331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656355602589	Marionette	INFO	Stopped listening on port 61647
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967306/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967306/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967306/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967302/domwalker41 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967302/domwalker41 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967302/domwalker41 (resource://devtools/server/actors/inspector/document-walker.js:79:0)
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.error: "Failed to start [root-node] legacy listener for target null" (new TypeError("inspectorFront.walker is null", "resource://devtools/shared/commands/resource/legacy-listeners/root-node.js", 50))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967340/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+1656357705146	geckodriver	INFO	Listening on 127.0.0.1:62636
+1656357705739	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "62637" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofileaUQiY6"
+*** You are running in headless mode.
+1656357706368	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62637
+2022-06-27 20:21:46.444 plugin-container[59378:2722762] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-27 20:21:46.445 plugin-container[59378:2722762] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-27 20:21:46.618 plugin-container[59378:2722762] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-27 20:21:46.618 plugin-container[59378:2722762] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-27 20:21:46.619 plugin-container[59378:2722794] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-27 20:21:46.619 plugin-container[59378:2722794] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofileaUQiY6/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656357708364	Marionette	INFO	Listening on port 62651
+DevTools listening on ws://localhost:62637/devtools/browser/4cdf23cf-f62b-4a59-b8a3-874904f7becc
+Read port: 62651
+1656357708426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967334"
+console.error: "Unable to find target with innerWindowId:4294967334"
+console.error: "Unable to find target with innerWindowId:4294967334"
+console.error: "Unable to find target with innerWindowId:4294967334"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.warn: ({})
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.error: "Unable to find target with innerWindowId:4294967372"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967372"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967384/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:573:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967388/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:573:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967375/domwalker57 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967375/domwalker57 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967375/domwalker57 (resource://devtools/server/actors/inspector/document-walker.js:79:0)
+console.error: "Unable to find target with innerWindowId:4294967375"
+console.error: "Unable to find target with innerWindowId:4294967375"
+console.error: "Unable to find target with innerWindowId:4294967375"
+console.error: "Unable to find target with innerWindowId:4294967375"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967407"
+console.error: "Unable to find target with innerWindowId:4294967407"
+console.error: "Unable to find target with innerWindowId:4294967407"
+console.error: "Unable to find target with innerWindowId:4294967407"
+console.error: "Unable to find target with innerWindowId:4294967407"
+console.error: "Unable to find target with innerWindowId:4294967407"
+console.error: "Unable to find target with innerWindowId:4294967407"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967423/layout25, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967429/layout25, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3400: TypeError: data.frameData.id is null
+1656370796426	Marionette	INFO	Stopped listening on port 62651
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656370845993	Marionette	INFO	Stopped listening on port 61716
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967412/layout104, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2661:22\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967415/layout25, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2661:22\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967424/layout27, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2661:22\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967425/layout25, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2661:22\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967426/layout25, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2661:22\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967427/layout25, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2661:22\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967433/layout25, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2661:22\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656370856324	geckodriver	INFO	Listening on 127.0.0.1:63572
+1656370856832	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63573" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofile1RgAJW"
+1656370857590	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63573
+2022-06-28 00:00:57.691 plugin-container[60356:2758936] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 00:00:57.691 plugin-container[60356:2758936] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 00:00:57.942 plugin-container[60356:2758936] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 00:00:57.942 plugin-container[60356:2758936] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 00:00:57.943 plugin-container[60356:2758938] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 00:00:57.943 plugin-container[60356:2758938] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofile1RgAJW/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656370859964	Marionette	INFO	Listening on port 63589
+DevTools listening on ws://localhost:63573/devtools/browser/859f3b79-e0c4-4997-8dd7-bee44b087883
+Read port: 63589
+1656370860045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967304/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new TypeError("inspectorFront.walker is null", "resource://devtools/shared/commands/resource/legacy-listeners/root-node.js", 50))
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3400: TypeError: data.frameData.id is null
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.error: "Failed to start [root-node] legacy listener for target null" (new TypeError("inspectorFront.walker is null", "resource://devtools/shared/commands/resource/legacy-listeners/root-node.js", 50))
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3400: TypeError: data.frameData.id is null
+console.warn: "IGNORED REDUX ACTION:" "MESSAGES_ADD"
+console.warn: "IGNORED REDUX ACTION:" "NETWORK_MESSAGES_UPDATE"
+console.warn: "IGNORED REDUX ACTION:" "NETWORK_UPDATES_REQUEST"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Unable to find target with innerWindowId:4294967328"
+console.error: "Unable to find target with innerWindowId:4294967328"
+console.error: "Unable to find target with innerWindowId:4294967328"
+console.error: "Unable to find target with innerWindowId:4294967328"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.error: "Failed to start [root-node] legacy listener for target null" (new TypeError("inspectorFront.walker is null", "resource://devtools/shared/commands/resource/legacy-listeners/root-node.js", 50))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn2.windowGlobal4294967360/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:573:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:4294967354"
+console.error: "Unable to find target with innerWindowId:4294967354"
+console.error: "Unable to find target with innerWindowId:4294967354"
+console.error: "Unable to find target with innerWindowId:4294967354"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn2.windowGlobal4294967385/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn2.windowGlobal4294967385/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn2.windowGlobal4294967385/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.error: "Failed to start [root-node] legacy listener for target null" (new TypeError("inspectorFront.walker is null", "resource://devtools/shared/commands/resource/legacy-listeners/root-node.js", 50))
+console.error: "Unable to find target with innerWindowId:4294967380"
+console.error: "Unable to find target with innerWindowId:4294967380"
+console.error: "Unable to find target with innerWindowId:4294967380"
+console.error: "Unable to find target with innerWindowId:4294967380"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn2.windowGlobal4294967412/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn2.windowGlobal4294967412/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn2.windowGlobal4294967415/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:573:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn2.windowGlobal4294967415/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn2.windowGlobal4294967412/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1656374716599	geckodriver	INFO	Listening on 127.0.0.1:50028
+1656374717145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50029" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofile6FwhwD"
+1656374718052	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50029
+2022-06-28 01:05:18.226 plugin-container[61357:2796256] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 01:05:18.227 plugin-container[61357:2796256] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 01:05:18.397 plugin-container[61357:2796256] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 01:05:18.397 plugin-container[61357:2796256] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 01:05:18.397 plugin-container[61357:2796303] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 01:05:18.397 plugin-container[61357:2796303] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofile6FwhwD/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656374720634	Marionette	INFO	Listening on port 50044
+DevTools listening on ws://localhost:50029/devtools/browser/e4773910-17ca-44d4-b217-d2090b5c1535
+Read port: 50044
+1656374720703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://fc.sainsburys.co.uk/sgol.js, line 1: ReferenceError: FC is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+1656374751278	Marionette	INFO	Stopped listening on port 50044
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656374753501	geckodriver	INFO	Listening on 127.0.0.1:50208
+1656374754015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50209" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofilekq03dx"
+2022-06-28 01:05:54.748 plugin-container[61373:2797186] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 01:05:54.748 plugin-container[61373:2797186] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 01:05:54.758 plugin-container[61373:2797186] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 01:05:54.758 plugin-container[61373:2797186] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 01:05:54.760 plugin-container[61373:2797193] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 01:05:54.760 plugin-container[61373:2797193] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1656374754767	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50209
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofilekq03dx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656374757500	Marionette	INFO	Listening on port 50225
+Read port: 50225
+1656374757637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:50209/devtools/browser/72735e50-93b3-47d3-82af-ead927a89e76
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656376145596	geckodriver	INFO	Listening on 127.0.0.1:51165
+1656376146116	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51166" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofileD7U9BX"
+2022-06-28 01:29:06.834 plugin-container[61907:2813198] nil host used in call to allowsSpecificHTTPSCertificateForHost
+1656376146851	Marionette	INFO	Marionette enabled
+2022-06-28 01:29:06.875 plugin-container[61907:2813198] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:51166
+2022-06-28 01:29:07.005 plugin-container[61907:2813198] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 01:29:07.005 plugin-container[61907:2813198] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 01:29:07.006 plugin-container[61907:2813196] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 01:29:07.006 plugin-container[61907:2813196] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofileD7U9BX/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656376149644	Marionette	INFO	Listening on port 51181
+DevTools listening on ws://localhost:51166/devtools/browser/f8279441-4c8e-442c-90aa-74540d6bd783
+Read port: 51181
+1656376149723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1656422139366	geckodriver	INFO	Listening on 127.0.0.1:52223
+1656422139889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52224" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofilevsNdTU"
+2022-06-28 14:15:40.680 plugin-container[63869:2893870] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 14:15:40.681 plugin-container[63869:2893870] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1656422140698	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52224
+2022-06-28 14:15:40.898 plugin-container[63869:2893870] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 14:15:40.898 plugin-container[63869:2893870] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 14:15:40.899 plugin-container[63869:2893901] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 14:15:40.899 plugin-container[63869:2893901] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofilevsNdTU/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656422143267	Marionette	INFO	Listening on port 52240
+DevTools listening on ws://localhost:52224/devtools/browser/179811ee-1e21-4d09-b3c6-b6d8ae0e4a1b
+Read port: 52240
+1656422143326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+1656422476581	geckodriver	INFO	Listening on 127.0.0.1:52420
+1656422477095	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52421" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofileOjCFDN"
+2022-06-28 14:21:17.766 plugin-container[63990:2897617] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 14:21:17.767 plugin-container[63990:2897617] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 14:21:17.775 plugin-container[63990:2897617] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 14:21:17.775 plugin-container[63990:2897617] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 14:21:17.776 plugin-container[63990:2897623] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 14:21:17.776 plugin-container[63990:2897623] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1656422477787	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52421
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofileOjCFDN/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656422480334	Marionette	INFO	Listening on port 52435
+DevTools listening on ws://localhost:52421/devtools/browser/8a1d3a6c-52c2-4a35-82d5-d4b569fba8d9
+Read port: 52435
+1656422480416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656422487751	Marionette	INFO	Stopped listening on port 52435
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656422493424	Marionette	INFO	Stopped listening on port 52240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656422495883	geckodriver	INFO	Listening on 127.0.0.1:52508
+1656422496383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52509" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofilevHwzbP"
+2022-06-28 14:21:36.968 plugin-container[63998:2898139] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 14:21:36.968 plugin-container[63998:2898139] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1656422496985	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52509
+2022-06-28 14:21:37.100 plugin-container[63998:2898139] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 14:21:37.100 plugin-container[63998:2898139] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 14:21:37.101 plugin-container[63998:2898144] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 14:21:37.101 plugin-container[63998:2898144] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofilevHwzbP/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656422499257	Marionette	INFO	Listening on port 52523
+Read port: 52523
+1656422499329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52509/devtools/browser/efd5f35a-977a-48d0-97dd-d243be545728
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656422503019	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1656444634517	geckodriver	INFO	Listening on 127.0.0.1:53855
+1656444635045	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53856" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofileBxJeUR"
+1656444636785	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53856
+2022-06-28 20:30:37.018 plugin-container[68605:3042044] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 20:30:37.019 plugin-container[68605:3042044] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 20:30:37.178 plugin-container[68605:3042044] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 20:30:37.178 plugin-container[68605:3042044] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-28 20:30:37.181 plugin-container[68605:3042098] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-28 20:30:37.181 plugin-container[68605:3042098] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofileBxJeUR/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656444639551	Marionette	INFO	Listening on port 53870
+DevTools listening on ws://localhost:53856/devtools/browser/49e992e2-2423-4863-911f-2ed48dd129ea
+Read port: 53870
+1656444639669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656497795950	Marionette	INFO	Stopped listening on port 53870
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 379))
+1656788062980	geckodriver	INFO	Listening on 127.0.0.1:60891
+1656788063307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60892" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofile3AGyV6"
+2022-07-02 19:54:32.288 plugin-container[76102:3385840] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-02 19:54:32.289 plugin-container[76102:3385840] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:60892
+2022-07-02 19:54:32.828 plugin-container[76102:3385840] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-02 19:54:32.828 plugin-container[76102:3385840] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-02 19:54:32.829 plugin-container[76102:3385843] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-02 19:54:32.829 plugin-container[76102:3385843] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1656788076061	geckodriver	INFO	Listening on 127.0.0.1:60900
+1656788076591	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60901" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofile92Q3I4"
+1656788078197	Marionette	INFO	Marionette enabled
+1656788078343	Marionette	INFO	Listening on port 60926
+Read port: 60926
+WebDriver BiDi listening on ws://localhost:60901
+2022-07-02 19:54:38.404 plugin-container[76109:3386186] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-02 19:54:38.405 plugin-container[76109:3386186] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-02 19:54:38.498 plugin-container[76109:3386186] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-02 19:54:38.498 plugin-container[76109:3386186] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-02 19:54:38.499 plugin-container[76109:3386204] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-02 19:54:38.499 plugin-container[76109:3386204] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://localhost:60892/devtools/browser/c59831f9-47b9-4ae4-91e0-36922ff084fb
+Read port: 60926
+Read port: 60926
+1656788080987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/83/m9l737mx3dsfshswj30tzpk80000gn/T/rust_mozprofile92Q3I4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60901/devtools/browser/fb602302-becd-4571-8c15-32d6f129bd2d
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+JavaScript warning: https://d1af033869koo7.cloudfront.net/psp/platform/247px.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sainsburys.co.uk"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://www.amazon.co.uk/Quiksilver-EVERYDAY-BACKPACK-COLOR-Heather/dp/B0835TC6HV/ref=sr_1_2?crid=EHI60JLKRWQR&keywords=quiksilver%2Bbackpack%2Bmens&qid=1656791221&sprefix=quicksilver%2Bbac%2Caps%2C71&sr=8-2&th=1 line 7869 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.co.uk/Quiksilver-EVERYDAY-BACKPACK-COLOR-Heather/dp/B0835TC6HV/ref=sr_1_2?crid=EHI60JLKRWQR&keywords=quiksilver%2Bbackpack%2Bmens&qid=1656791221&sprefix=quicksilver%2Bbac%2Caps%2C71&sr=8-2&th=1 line 7775 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/71Ry86kcH9L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/71Ry86kcH9L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/61lemL2h6EL.js?AUIClients/AmazonUIjQuery&KK9dlo3A#412402-T1.412405-T1, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+1656955205335	Marionette	INFO	Stopped listening on port 60926
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
