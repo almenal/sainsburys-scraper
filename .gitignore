@@ -4,3 +4,4 @@
 notebooks/*html
 notebooks/*zip
 notebooks/*xml*
+.virtual_documents
